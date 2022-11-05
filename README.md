@@ -1,2 +1,2 @@
 # CECS-301
-Computer Logic Design II
+CECS 301 taught by Amin Rezaei @ CSULB Fall '21
